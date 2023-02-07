@@ -1,6 +1,6 @@
 # Project: Third-Party APIs: Work Day Scheduler
 
-  Deployable Link - > https://reindeercode.github.io/Third-Party-APIs-Work-Day-Scheduler/
+  Deployable Link - 
 
 
 ## Table of Contents: 
@@ -32,7 +32,7 @@ Click deployed site link at top of read me.
 Check out more projects on my Github at https://github.com/ReindeerCode
 
 ## My Email Address:
-If you have any questions please feel free to email me at ReindeerCode@gmail.com
+If you have any questions please feel free to email me at cyberwindfall@gmail.com
 
 ## Other Contributors:
 Danielle May (dmaysteinman), Eddie Phi (EddiePhi), Brenda Burns (GitHub Unknown), Shannon Quinn(shannonquinn91), Michael Jones (mdjonestwo), Sarah Manter (smanter82)
