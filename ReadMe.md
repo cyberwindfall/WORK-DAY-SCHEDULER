@@ -15,6 +15,8 @@
   - [Other Contributors:](#other-contributors)
   - [Images:](#images)
 
+
+
 ## License:
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -28,11 +30,14 @@ Use Moment for time - https://momentjs.com/
 ## Test Command: 
 Click deployed site link at top of read me.
 
+
 ## Github: 
 Check out more projects on my Github at https://github.com/cyberwindfall@gmail.com
 
 ## My Email Address:
 If you have any questions please feel free to email me at cyberwindfall@gmail.com
+
+
 
 ## Other Contributors:
 Danielle May (dmaysteinman), Eddie Phi (EddiePhi), Brenda Burns (GitHub Unknown), Shannon Quinn(shannonquinn91), Michael Jones (mdjonestwo), Sarah Manter (smanter82)
