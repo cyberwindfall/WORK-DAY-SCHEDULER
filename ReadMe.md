@@ -37,7 +37,4 @@ If you have any questions please feel free to email me at cyberwindfall@gmail.co
 ## Other Contributors:
 Danielle May (dmaysteinman), Eddie Phi (EddiePhi), Brenda Burns (GitHub Unknown), Shannon Quinn(shannonquinn91), Michael Jones (mdjonestwo), Sarah Manter (smanter82)
 
-## Images:
-![Project Screenshot](./Assets/timeScreenShot.png)
-![Project Screenshot](./Assets/notesInTextBoxAndButtons.png)
 
